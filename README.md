@@ -30,8 +30,7 @@ Publish the website in the given URL.
 ## PROGRAM:
 ```
 rest.html
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <title>FOODIE RESTAURANT</title>
   <link rel="stylesheet" href="home.css">
